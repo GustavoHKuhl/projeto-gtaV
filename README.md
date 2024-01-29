@@ -5,8 +5,7 @@
 https://gustavohkuhl.github.io/projeto-gtaV/ 
 
 Projeto Site Gta V é uma aplicação full stack web contruída durante um evento de imersão Dev e tem como principal objetivo melhorar minha compreensão em CSS,HTML e Javascript. Por fim, 
-o projeto tem o propósito de simular o site de vendas do Gta V feito pela Rockstar Games,posui um botão para levar para o suporte da Rockstar Games e outro botão para selecionar a plata-
-forma que o usuário deseja comprar o jogo.
+o projeto tem o propósito de simular o site de vendas do Gta V feito pela Rockstar Games,posui um botão para levar para o suporte da Rockstar Games e outro botão para selecionar a plataforma que o usuário deseja comprar o jogo.
 
 ## Layout mobile
 ![WhatsApp Image 2024-01-29 at 20 16 23](https://github.com/GustavoHKuhl/projeto-gtaV/assets/136746600/d42977e8-3d30-46f4-8a86-6a813b64c323) 
